@@ -1,7 +1,7 @@
 # VTuber_Unity
 
-Note : If you want to woek with code file all you need to do is extract the zip file and follow the installation procedure
-
+**Note : If you want to woek with code file all you need to do is extract the zip file and follow the installation procedure
+**
 
 Use Unity 3D character and Python deep learning algorithms to stream as a VTuber.
 
